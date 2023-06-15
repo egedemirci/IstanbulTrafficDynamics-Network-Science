@@ -1,9 +1,11 @@
 
+# <p align="center">Decoding Istanbul’s Vehicular Veins: A Network Science Exploration of Metropolitan Traffic Dynamics </p>
+
 <p align="center">
   <img width="716" height="348" src="https://i.imgur.com/rLIKywe.png">
 </p> 
- 
-# Decoding Istanbul’s Vehicular Veins: A Network Science Exploration of Metropolitan Traffic Dynamics
+
+### Abstract
 
 This project employs the techniques of network science to investigate and discern the underlying
 patterns of traffic flow in Istanbul, one of the world’s busiest cities. Using the data collected by
